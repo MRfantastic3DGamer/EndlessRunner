@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8acf0cb4249f68f45ab7a0ea89e5df98, type: 3}
+  m_Name: Ground Piece 2
+  m_EditorClassIdentifier: 
+  mesh: {fileID: 7307978034271427142, guid: 1a17c5e7f2ba2f2449f34f16f7b1c3d9, type: 3}
+  offset: {x: 0, y: 0, z: 0}
+  size: {x: 10, y: 10, z: 40}
+  movementRange: 10
+  dificulty: 0.5
